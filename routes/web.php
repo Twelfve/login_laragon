@@ -47,3 +47,4 @@ Route::get('/vincent', [
     'uses' => 'Estructuras_De_Control@vincent',
     'as' => 'Vincent'
 ]);
+

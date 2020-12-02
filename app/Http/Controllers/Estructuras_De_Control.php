@@ -59,4 +59,5 @@ class Estructuras_De_Control extends Controller
             'title' => 'Vincent'
         ));
     }
+
 }

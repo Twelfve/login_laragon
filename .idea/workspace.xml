@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
@@ -163,6 +166,10 @@
       <workItem from="1604592612035" duration="2379000" />
       <workItem from="1604624299697" duration="3235000" />
       <workItem from="1604627803802" duration="6383000" />
+      <workItem from="1604894802045" duration="828000" />
+      <workItem from="1605149608662" duration="869000" />
+      <workItem from="1606406015479" duration="6814000" />
+      <workItem from="1606783051944" duration="45000" />
     </task>
     <servers />
   </component>
